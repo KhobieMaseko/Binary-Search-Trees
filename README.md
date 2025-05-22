@@ -49,3 +49,7 @@ The unbalanced tree after adding large numbers
 The rebalanced tree
 
 Final traversal outputs
+
+
+
+![Binary Search Trees](https://github.com/user-attachments/assets/02be69c7-9c22-4c24-a99a-92fcd839317d)
