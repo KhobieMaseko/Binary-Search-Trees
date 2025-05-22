@@ -1,4 +1,4 @@
-# Binary Search Tree Implementation
+# Binary Search Tree
 
 A JavaScript implementation of a balanced Binary Search Tree (BST) for [The Odin Project](https://www.theodinproject.com) curriculum.
 
